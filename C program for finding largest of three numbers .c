@@ -12,4 +12,4 @@ max=(number1>number2)?(number1>number3?number1:number3):(number2>number3 ? numbe
 printf("\nMaximum among all three numbers = %d",max);
 return 0;
 }
-![Largest using else if](https://github.com/Farzaan-Rather/Assignment-/assets/147377642/1bc33484-66c8-45c6-b703-da07eda44f75)
+
